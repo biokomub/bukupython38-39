@@ -1,1 +1,1 @@
-a
+raise ZeroDivisionError
