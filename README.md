@@ -26,9 +26,9 @@ File errata [Errata.pdf](Errata.pdf) mengandung daftar beberapa kesalahan penget
 
 Kritik dan saran dapat disampaikan kepada penulis melalui:
 
-- Maulana Malik Nashrulloh (mmnashrullah at gmail dot com)
-- Brian Rahardi (rhardi dot brian at gmail dot com atau brian_rahardi at ub dot ac dot id)
+- Maulana Malik Nashrulloh, S.Si. (mmnashrullah at gmail dot com)
+- Dr. Brian Rahardi, S.Si., M.Sc. (rhardi dot brian at gmail dot com atau brian_rahardi at ub dot ac dot id)
 
 Pemesanan buku dapat melalui:
 
-- Imama (+62 822 2987 2305, Whatsapp only)
+- Siti Imama Khoiriyah, S.Si., M.Si. (+62 822 2987 2305, Whatsapp only)
