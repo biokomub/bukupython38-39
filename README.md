@@ -7,9 +7,7 @@ Repositori ini repositori dari kode dan tutorial pendamping buku **Dasar-Dasar P
 <img width="300" src="https://github.com/biokomub/bukupython38-39/blob/main/assets/cover.jpeg">
 </p>
 
-Ditulis oleh Maulana Malik Nashrulloh dan Brian Rahardi.
-
-Buku terbit pada 6 Januari 2022 dan diterbitkan oleh penerbit Global Science, sayap penerbitan dari Inbio Indonesia (https://www.inbio-indonesia.org/).
+Buku ini ditulis oleh Maulana Malik Nashrulloh dan Brian Rahardi. Buku ini terbit pada 6 Januari 2022 dan diterbitkan oleh penerbit Global Science, sayap penerbitan dari Inbio Indonesia (https://www.inbio-indonesia.org/).
 
 <p align="center"> Powered by: </p>
 <p align="center">
@@ -23,3 +21,14 @@ Nashrulloh, M.M., Rahardi, B. 2022. **Dasar-Dasar Python 3.8/3.9: Sebuah Pengant
 ## Errata
 
 File errata [Errata.pdf](Errata.pdf) mengandung daftar beberapa kesalahan pengetikan yang diketahui dan koreksinya. Errata ini bersifat minor dan tidak mempengaruhi konten dari buku ini.
+
+## Kontak
+
+Kritik dan saran dapat disampaikan kepada penulis melalui:
+
+- Maulana Malik Nashrulloh (mmnashrullah at gmail dot com)
+- Brian Rahardi (rhardi dot brian at gmail dot com atau brian_rahardi at ub dot ac dot id)
+
+Pemesanan buku dapat melalui:
+
+- Imama (+62 822 2987 2305, Whatsapp only)
