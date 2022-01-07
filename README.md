@@ -16,4 +16,5 @@ Powered by:
 </p>
 
 Sitasi:
+
 Nashrulloh, M.M., Rahardi, B. 2022. **Buku Dasar-Dasar Python 3.8/3.9: Sebuah Pengantar Praktis Pemrograman Python untuk Pemrograman Ilmiah**. Global Science. Malang
