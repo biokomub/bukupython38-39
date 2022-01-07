@@ -22,4 +22,4 @@ Nashrulloh, M.M., Rahardi, B. 2022. **Buku Dasar-Dasar Python 3.8/3.9: Sebuah Pe
 
 ## Errata
 
-File errata (errata.pdf) mengandung daftar beberapa kesalahan pengetikan yang diketahui dan koreksinya. Errata ini bersifat minor dan tidak mempengaruhi konten dari buku ini.
+File errata [Errata.pdf](errata.pdf) mengandung daftar beberapa kesalahan pengetikan yang diketahui dan koreksinya. Errata ini bersifat minor dan tidak mempengaruhi konten dari buku ini.
