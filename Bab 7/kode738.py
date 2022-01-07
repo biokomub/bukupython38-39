@@ -1,5 +1,5 @@
 # membuat template
-n = "{:{rataan}{lebar}.{presisi}f}"
+s = "{:{isian}{rataan}{lebar}}"
 
 # melewatkan format sebagai argumen 
-print(n.format(123.32, rataan='^', lebar='3', presisi=1))
+print(s.format('Bio', isian='*', rataan='^', lebar=7))
