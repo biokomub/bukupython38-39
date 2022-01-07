@@ -18,7 +18,7 @@ Buku terbit pada 6 Januari 2022 dan diterbitkan oleh penerbit Global Science, sa
 
 ## Sitasi
 
-Nashrulloh, M.M., Rahardi, B. 2022. **Buku Dasar-Dasar Python 3.8/3.9: Sebuah Pengantar Praktis Pemrograman Python untuk Pemrograman Ilmiah**. Global Science. Malang.
+Nashrulloh, M.M., Rahardi, B. 2022. **Dasar-Dasar Python 3.8/3.9: Sebuah Pengantar Praktis Pemrograman Python untuk Pemrograman Ilmiah**. Global Science. Malang.
 
 ## Errata
 
