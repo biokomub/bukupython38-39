@@ -1,4 +1,4 @@
-#contoh mencetak tanpa escape sequences
+#contoh mencetak escape sequences
 from string import Template
 
 S = "Tumor protein 53, atau lebih dikenal dengan "p53", \
