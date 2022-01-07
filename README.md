@@ -11,8 +11,8 @@ Ditulis oleh Maulana Malik Nashrulloh dan Brian Rahardi
 Buku terbit pada 6 Januari 2022 dan diterbitkan oleh penerbit Global Science, sayap penerbitan dari Inbio Indonesia (https://www.inbio-indonesia.org/).
 
 <p align="center">
-Powered by:
-<img width="300" src="https://github.com/biokomub/bukupython38-39/blob/main/assets/python-anaconda.jpeg">
+  Powered by:
+  <img width="300" src="https://github.com/biokomub/bukupython38-39/blob/main/assets/python-anaconda.jpeg">
 </p>
 
 Sitasi:
