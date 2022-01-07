@@ -12,7 +12,7 @@ Buku terbit pada 6 Januari 2022 dan diterbitkan oleh penerbit Global Science, sa
 
 <p align="center">
 Powered by:
-<img src="https://github.com/biokomub/bukupython38-39/blob/main/assets/python-anaconda.jpeg">
+<img width="300" src="https://github.com/biokomub/bukupython38-39/blob/main/assets/python-anaconda.jpeg">
 </p>
 
 Sitasi:
