@@ -1,4 +1,4 @@
-#bukti terlarangnya pagar di f-string
+#bukti terlarangnya backslash di f-string
 a = f"{#}"
 
 print(a)
