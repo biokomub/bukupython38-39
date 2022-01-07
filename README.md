@@ -1,6 +1,6 @@
 # Dasar-Dasar Python 3.8/3.9: Sebuah Pengantar Praktis Pemrograman Python untuk Pemrograman Ilmiah
 
-Repositori ini repositori dari kode dan tutorial pendamping **Buku Dasar-Dasar Python 3.8/3.9: Sebuah Pengantar Praktis Pemrograman Python untuk Pemrograman Ilmiah**
+Repositori ini repositori dari kode dan tutorial pendamping buku **Dasar-Dasar Python 3.8/3.9: Sebuah Pengantar Praktis Pemrograman Python untuk Pemrograman Ilmiah**
 
 <p align="center">
 <img width="300" src="https://github.com/biokomub/bukupython38-39/blob/main/assets/cover.jpeg">
