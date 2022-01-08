@@ -28,9 +28,7 @@ Pemesanan buku dapat melalui:
 
 - Siti Imama Khoiriyah, S.Si., M.Si. (+62 822 2987 2305, Whatsapp only)
 
-
-
-
+##
 
 <p align="center"> Powered by: </p>
 <p align="center">
