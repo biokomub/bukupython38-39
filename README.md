@@ -28,6 +28,10 @@ Pemesanan buku dapat melalui:
 
 - Siti Imama Khoiriyah, S.Si., M.Si. (+62 822 2987 2305, Whatsapp only)
 
+## Pembelian
+
+Untuk pembelian, silakan ke Bookshop Inbio Indonesia di https://www.inbio-indonesia.org/buyebook11.php.
+
 ##
 
 <p align="center"> Powered by: </p>
